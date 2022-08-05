@@ -1,7 +1,7 @@
 Hi, I'm Grzegorz Walewski
 
 # Who am I?
-Mainly I'm **PHP programmer**. At free time I'm doing sports(mostly running). Last year I fell in love with tattoos, and got 3 of them :smile:
+I'm **PHP programmer**. At free time I'm doing sports(mostly running). Last year I fell in love with tattoos, and got 3 of them :smile:
 When I need relax, I play League of Legends with my friends. Sometimes I also watch some movies, but I wouldn't say im movie geek.
 At "before COVID times" I was acting at local theater.
 
