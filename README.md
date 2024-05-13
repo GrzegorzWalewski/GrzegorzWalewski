@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <p>Pyramid ~ Grzegorz "Grzojda" Walewski</p>
+  <p>Grzegorz "Grzojda" Walewski</p>
   <a href="https://github.com/GrzegorzWalewski" target="_blank">
     <img src="https://img.shields.io/github/followers/GrzegorzWalewski?label=Follow%20Me&style=social"/>
   </a>
